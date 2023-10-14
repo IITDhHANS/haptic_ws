@@ -1,6 +1,9 @@
 ### About
 ```
-Haptic workspace provides a platform for simulating your physical systems. The workspace has integrated two haptic devices, which can be used for controlling the objects in the workspace. It was created for implementing robot-assisted upper-limb bi-manual rehabilitation exercises. The workspace can be incorporated with other objects based on the exercise. It provides a physics-based environment that provides humans with a real feel of working in a real space.
+Haptic workspace provides a platform for simulating your physical systems.
+Workspace has integrated two haptic devices, which can be used for controlling the objects in the workspace.
+It was created for implementing robot-assisted upper-limb bi-manual rehabilitation exercises. Workspace can be incorporated with other objects based on the exercise.
+It provides a physics-based environment that provides humans with a real feel of working in a real space.
 ```
 # Steps to configure
 
