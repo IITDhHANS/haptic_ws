@@ -40,7 +40,6 @@ rosrun haptic_pkg box_with_falcon.py
 ## Demonstration
 ```
 The video of the bi-manual rehabilitation task that was performed at our Lab is available here:
-[here]((https://drive.google.com/file/d/1-LyKFd3FtbXIei6z_SiwLqro4fwmLbXC/view?usp=sharing)
 
 https://drive.google.com/file/d/1-LyKFd3FtbXIei6z_SiwLqro4fwmLbXC/view?usp=sharing
 (Experiment without robot assistance(0:1.23)
