@@ -1,3 +1,10 @@
+## Demonstration
+
+The video of the bi-manual rehabilitation task that was performed at our Lab is available [here](https://drive.google.com/file/d/1-LyKFd3FtbXIei6z_SiwLqro4fwmLbXC/view?usp=sharing):
+
+(Experiment without robot assistance(0:1.23)
+Assist-as-needed rehabilitation(1.23:2.28) ) 
+
 ### About
 Haptic workspace provides a platform for simulating your physical systems.
 Workspace has integrated two haptic devices, which can be used for controlling the objects in the workspace.
@@ -37,10 +44,5 @@ source devel/setup.bash
 rosrun haptic_pkg box_with_falcon.py
 
 ```
-## Demonstration
 
-The video of the bi-manual rehabilitation task that was performed at our Lab is available [here](https://drive.google.com/file/d/1-LyKFd3FtbXIei6z_SiwLqro4fwmLbXC/view?usp=sharing):
-
-(Experiment without robot assistance(0:1.23)
-Assist-as-needed rehabilitation(1.23:2.28) ) 
 
