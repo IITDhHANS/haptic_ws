@@ -5,7 +5,7 @@ The video of the bi-manual rehabilitation task that was performed at our Lab is 
 (Experiment without robot assistance(0:1.23)
 Assist-as-needed rehabilitation(1.23:2.28) ) 
 
-### About
+### About haptic_ws
 Haptic workspace provides a platform for simulating your physical systems.
 Workspace has integrated two haptic devices, which can be used for controlling the objects in the workspace.
 It was created for implementing robot-assisted upper-limb bi-manual rehabilitation exercises. Workspace can be incorporated with other objects based on the exercise.
